@@ -1,0 +1,1 @@
+Ahora veamos la creación de objetos a partir de clases de Mootools y la utilización de esos objetos para acceder a sus propiedades e invocar sus métodos.
